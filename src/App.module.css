@@ -1,0 +1,37 @@
+.container {
+  font-family: 'Segoe UI', sans-serif;
+
+  max-width: 600px;
+  margin: 50px auto;
+  background: #f8f9fa;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #007bff;
+  margin-bottom: 20px;
+}
+
+h3 {
+  color: #343a40;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
+button {
+  padding: 10px 20px;
+  border: 0;
+  background: #3b80c6;
+  color: #fff;
+  cursor: pointer;
+}
